@@ -1,1 +1,3 @@
 Zmodyfikowany plik 1.
+Feature testowy na branczu conflict-2.
+// Zmergowano zmiany
