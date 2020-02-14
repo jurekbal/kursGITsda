@@ -1,1 +1,1 @@
-Feature testowy
+Zmodyfikowany plik 1.
