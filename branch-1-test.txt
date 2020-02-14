@@ -1,1 +1,1 @@
-Feature testowy
+Feature testowy na branczu conflict-2.
